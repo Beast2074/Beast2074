@@ -6,11 +6,20 @@
 
 <br><br>
 
-<!-- Middle Grid: Aligned 2x2 Layout (Borderless) -->
+<!-- Middle Grid: Aligned 2x2 Layout -->
 <h3><code>Beast2074@github ~ $ whoami --details</code></h3>
-<img src="./Shivansh-ascii.svg" width="420" alt="ASCII portrait" /><img src="./info-card.svg" width="420" alt="Info Card" />
-<br>
-<img src="./wordmark-rock.svg" width="420" alt="Shivansh Wordmark" /><img src="./stats.svg" width="420" alt="GitHub stats" />
+<table>
+  <!-- Row 1: The Top Images -->
+  <tr>
+    <td valign="top" align="center"><img src="./Shivansh-ascii.svg" width="420" alt="ASCII portrait" /></td>
+    <td valign="top" align="center"><img src="./info-card.svg" width="420" alt="Info Card" /></td>
+  </tr>
+  <!-- Row 2: The Bottom Images (Guarantees horizontal top alignment) -->
+  <tr>
+    <td valign="top" align="center"><img src="./wordmark-rock.svg" width="420" alt="Shivansh Wordmark" /></td>
+    <td valign="top" align="center"><img src="./stats.svg" width="420" alt="GitHub stats" /></td>
+  </tr>
+</table>
 
 <br><br>
 
