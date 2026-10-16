@@ -19,7 +19,7 @@
 
 <table>
 <tr>
-<td valign="top"><img src="./Sivansh-ascii.svg" width="420" alt="Shivansh Shukla — ASCII portrait" /></td>
+<td valign="top"><img src="./Shivansh-ascii.svg" width="420" alt="Shivansh Shukla — ASCII portrait" /></td>
 <td valign="top"><img src="./stats.svg" width="420" alt="Shivansh's GitHub streak and contribution stats — auto-refreshed daily" /></td>
 </tr>
 </table>
