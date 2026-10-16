@@ -2,7 +2,7 @@
 
 <!-- animated contribution graph -->
 <h3><code>Beast2074@github ~ $ ./contributions.sh</code></h3>
-<img src="./contrib-heatmap.svg" width="860" alt="Shivansh's GitHub contribution graph — auto-refreshed daily" />
+<img src="./streak.svg" width="860" alt="Shivansh's GitHub contribution graph — auto-refreshed daily" />
 
 <br><br>
 
