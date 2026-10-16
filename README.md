@@ -2,26 +2,22 @@
 
 <!-- Top: Animated Contribution Graph -->
 <h3><code>Beast2074@github ~ $ ./contributions.sh --graph</code></h3>
-<img src="./contrib-heatmap.svg" width="860" alt="Shivansh's GitHub contribution graph" />
+<img src="./streak.svg" width="860" alt="Shivansh's GitHub contribution graph" />
 
 <br><br>
 
-<!-- Middle Grid: Portrait & Wordmark (Left) | Info & Stats (Right) -->
+<!-- Middle Grid: Aligned 2x2 Layout -->
 <h3><code>Beast2074@github ~ $ whoami --details</code></h3>
 <table>
+  <!-- Row 1: The Top Images -->
   <tr>
-    <!-- Left Column -->
-    <td valign="top" align="center">
-      <img src="./Shivansh-ascii.svg" width="420" alt="Shivansh Shukla — ASCII portrait" />
-      <br><br>
-      <img src="./wordmark-rock.svg" width="420" alt="Shivansh Wordmark" />
-    </td>
-    <!-- Right Column -->
-    <td valign="top" align="center">
-      <img src="./info-card.svg" width="420" alt="Shivansh Info Card" />
-      <br><br>
-      <img src="./stats.svg" width="420" alt="Shivansh's GitHub stats" />
-    </td>
+    <td valign="top" align="center"><img src="./Shivansh-ascii.svg" width="420" alt="ASCII portrait" /></td>
+    <td valign="top" align="center"><img src="./info-card.svg" width="420" alt="Info Card" /></td>
+  </tr>
+  <!-- Row 2: The Bottom Images (Guarantees horizontal top alignment) -->
+  <tr>
+    <td valign="top" align="center"><img src="./wordmark-rock.svg" width="420" alt="Shivansh Wordmark" /></td>
+    <td valign="top" align="center"><img src="./stats.svg" width="420" alt="GitHub stats" /></td>
   </tr>
 </table>
 
